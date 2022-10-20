@@ -4,9 +4,9 @@
 
 [If you'd like to see the original dataset click here](https://figshare.com/articles/dataset/PHEME_dataset_for_Rumour_Detection_and_Veracity_Classification/6392078)
 
-## Model Flowchart
+## Methodology Flowchart
 
-![Flowchart](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![Flowchart](https://github.com/nicolemd7/Rumour-Detection/blob/main/Methodology.jpg)
 
 
 ## Algorithms Used
