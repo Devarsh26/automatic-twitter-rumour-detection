@@ -1,6 +1,6 @@
 # Rumour-Detection
 ## Dataset Used
-<p>PHEME dataset for Rumour Detection and Veracity Classification: This dataset contains a collection of Twitter rumours and non-rumours posted during breaking news. It contains rumours related to 9 events,In this dataset we have converted the PHEME Dataset into it's csv format and chosen 3000 rows from each event thus creating a dataset of 15,000 rows.</p>
+<p>PHEME dataset for Rumour Detection and Veracity Classification: This dataset contains a collection of Twitter rumours and non-rumours posted during breaking news. It contains rumours related to 5 events,In this dataset we have converted the PHEME Dataset into it's csv format and chosen 3000 rows from each event thus creating a dataset of 15,000 rows.</p>
 
 [If you'd like to see the original dataset click here](https://figshare.com/articles/dataset/PHEME_dataset_for_Rumour_Detection_and_Veracity_Classification/6392078)
 
