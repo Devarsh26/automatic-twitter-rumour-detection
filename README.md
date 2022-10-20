@@ -28,6 +28,6 @@
 
 
 ## Contributors
-- Devarsh Patel 
-- Nicole D'Souza
-- Riddhi Gawande
+- Devarsh Patel [@Devarsh26](https://github.com/Devarsh26/)
+- Nicole D'Souza [@nicolemd7](https://github.com/nicolemd7/)
+- Riddhi Gawande [@Riddhi1027](https://github.com/Riddhi1027/)
