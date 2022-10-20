@@ -9,7 +9,7 @@
 ![Flowchart](https://github.com/nicolemd7/Rumour-Detection/blob/main/Methodology.jpg)
 
 
-## Algorithms Used
+## Algorithms used and Accuracies Achieved
 
 |Algorithm | Accuracy |
 |---------------------------|--------|
